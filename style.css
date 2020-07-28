@@ -21,3 +21,27 @@
 .card-container:hover .cards{
     transform: rotateY(180deg);
 }
+
+.cards figure{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin: 0;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cards .front{
+    background: rgb(122, 120, 230);
+    color: white;
+    text-align: center;
+}
+
+.cards .back{
+    background: rgb(120, 204, 230);
+    color: white;
+    transform: rotateY(180deg);
+}
