@@ -1,7 +1,6 @@
 body{
     height: 100vh;
     display: flex;
-    background: linear-gradient(rgba(221, 12, 12, 0.452), rgba(23, 20, 189, 0.5)) , url(./jaromir-kavan-i9eaAR4dWi8-unsplash.jpg);
     background-size: cover;
     
 }
