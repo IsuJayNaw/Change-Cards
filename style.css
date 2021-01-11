@@ -1,4 +1,9 @@
- 
+.product{
+    text-align: center;
+    font-size: 4rem;
+    letter-spacing: 0.5rem;
+
+}
 .card-container{
     width: 200px;
     height: 300px;
