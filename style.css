@@ -4,6 +4,18 @@
     letter-spacing: 0.5rem;
 
 }
+
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+
+.pro-btn{
+    
+}
+
 .card-container{
     width: 200px;
     height: 300px;
