@@ -5,6 +5,12 @@
 
 }
 
+img{
+    height: 40vh;
+    width: 10vh;
+
+}
+
 .card-title{
     text-align: center;
 }
