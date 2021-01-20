@@ -1,0 +1,1 @@
+const proPrice = document.getElementById('proPrice');
