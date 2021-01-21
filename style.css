@@ -11,6 +11,11 @@ img{
 
 }
 
+.product{
+    width: 100%;
+    height: 50vh;
+}
+
 .card-title{
     text-align: center;
 }
