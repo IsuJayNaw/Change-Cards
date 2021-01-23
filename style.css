@@ -22,9 +22,10 @@ img{
 }
 
 .hero{
-    font-size: 4rem;
+    font-size: 5rem;
     color: #fff;
     text-transform: uppercase;
+    letter-spacing: 0.6rem;
 }
 
 .card-title{
