@@ -22,7 +22,9 @@ img{
 }
 
 .hero{
-    
+    font-size: 4rem;
+    color: #fff;
+    text-transform: uppercase;
 }
 
 .card-title{
