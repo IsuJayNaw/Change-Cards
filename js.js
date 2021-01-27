@@ -5,6 +5,6 @@ const buy = document.getElementById('buy');
 buy.addEventListener('click', (e) =>{
     e.preventDefault();
 
-   
+   const html = ` `
 
 });
