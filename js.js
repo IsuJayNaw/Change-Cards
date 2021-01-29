@@ -5,7 +5,10 @@ const buy = document.getElementById('buy');
 buy.addEventListener('click', (e) =>{
     e.preventDefault();
 
-   const html = ` <div class="container">
+    //content.style.display = "none";
+    content.classList.add('d-none');
+
+    const html = ` <div class="container">
                         <div class="card-container">
                             <div class="cards">
                                 <figure class="front">
